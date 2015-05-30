@@ -7,7 +7,7 @@ Referance for the app_Stack API
 
 .pop() is repensened by <sup>512</sup>∑<sub>n = 1</sub> m[n] = null
 
-.get() is reprensented by <sup>512></sup>∑<sub>n = 1</sub>m[n]
+.get() is reprensented by <sup>512</sup>∑<sub>n = 1</sub>m[n]
 
 #*End of Math
 
